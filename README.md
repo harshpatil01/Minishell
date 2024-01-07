@@ -1,1 +1,77 @@
-# Minishell
+
+# Mini Shell
+
+This is a simple mini shell program written in C that supports basic commands and job management.
+
+## Getting Started
+
+Follow these instructions to run the mini shell on your local machine.
+
+### Prerequisites
+
+- Make sure you have a C compiler installed on your system (e.g., GCC).
+
+### Compilation
+
+Compile the code using the following command:
+
+```bash
+gcc -o minishell minishell.c
+```
+
+### Running the Shell
+
+Execute the compiled binary to run the mini shell:
+
+```bash
+./minishell
+```
+
+## Usage
+
+Once the shell is running, you can enter various commands and explore the functionality provided.
+
+### Examples
+
+- Run a command:
+
+  ```bash
+  ls -l
+  ```
+
+- Change directory:
+
+  ```bash
+  cd /path/to/directory
+  ```
+
+- Create a new directory:
+
+  ```bash
+  mkdir new_directory
+  ```
+
+- View background jobs:
+
+  ```bash
+  jobs
+  ```
+
+- Exit the shell:
+
+  ```bash
+  exit
+  ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+```
+
+In this example:
+
+- The `Getting Started` section provides instructions for compiling and running the code.
+- The `Usage` section gives examples of commands that can be executed in the mini shell.
+- The `License` section includes information about the project's license.
+
+Feel free to customize the `README.md` file based on your project's specific details and requirements. Make sure to include any additional information that users might need to successfully run and understand your code.
