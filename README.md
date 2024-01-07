@@ -62,16 +62,3 @@ Once the shell is running, you can enter various commands and explore the functi
   ```bash
   exit
   ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-In this example:
-
-- The `Getting Started` section provides instructions for compiling and running the code.
-- The `Usage` section gives examples of commands that can be executed in the mini shell.
-- The `License` section includes information about the project's license.
-
-Feel free to customize the `README.md` file based on your project's specific details and requirements. Make sure to include any additional information that users might need to successfully run and understand your code.
